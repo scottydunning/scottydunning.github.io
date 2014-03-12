@@ -1,0 +1,7 @@
+body{
+	padding-top: 90px;
+	padding-bottom: 140px;
+}
+.btn-custom{
+	background-color: hsl(222, 37%, 47%);
+}
